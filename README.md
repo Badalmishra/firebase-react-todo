@@ -1,7 +1,7 @@
 
 # React Based Firebase Todo List App
-![Login]('/screenshots/s1.jpg' =40x40)
-![Task]('/screenshots/s2.jpg' =40x40)
+![Login](/screenshots/s1.jpg)
+![Task](/screenshots/s2.jpg)
  * Add Task
  * Remove Task
 
