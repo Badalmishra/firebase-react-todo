@@ -1,8 +1,8 @@
 
 # React Based Firebase Todo List App
 !["Login"](./screenshots/s1.jpg.png)
-!["Task"](./screenshots/s2.jpg.png =40x40)
- * Add Task
+<img src="./screenshots/s2.jpg.png" alt="drawing" width="400"/>
+* Add Task
  * Remove Task
 
 # Login with Google
